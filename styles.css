@@ -1,2 +1,19 @@
-
 /* Your CSS Code here. */
+.form{
+	background-color:lightgoldenrodyellow;
+	padding:10px;
+	margin:10px;
+	width:550px;
+	height:200px;
+}
+form>label{
+	padding:20px;
+}
+form>input{
+	box-shadow:5px 5px 5px lightgray;
+}
+
+#btn{
+	margin:15px;
+	width:70px;
+}
